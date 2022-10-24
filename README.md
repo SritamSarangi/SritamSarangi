@@ -1,7 +1,10 @@
-[![MasterHead](file:///C:/Users/KIIT/Desktop/form%20filup%20sai%20sritam%20sarangi/Animations_with_HTML5_2000x1100_v2.webp)]
+![logo](file:///C:/Users/KIIT/Desktop/form%20filup%20sai%20sritam%20sarangi/Animations_with_HTML5_2000x1100_v2.webp)
 <h1 align="center">Hi 👋, I'm Sai Sritam Sarangi</h1>
 <h3 align="center">I AM A BEGINNER WEB DEVELOPER WITH KNOWLEDGE IN ALL LANGUAGES.</h3>
+
+
 <img align="right" alt"coding" width="400" src="file:///C:/Users/KIIT/Downloads/yashbhatter-master/coding-freak.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sritamsarangi&label=Profile%20views&color=0e75b6&style=flat" alt="sritamsarangi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sritamsarangi" alt="sritamsarangi" /></a> </p>
