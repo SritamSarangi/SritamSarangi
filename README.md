@@ -3,7 +3,7 @@
 <h3 align="center">I AM A BEGINNER WEB DEVELOPER WITH KNOWLEDGE IN ALL LANGUAGES.</h3>
 
 
-<img align="right" alt"coding" width="400" src="file:///C:/Users/KIIT/Downloads/yashbhatter-master/coding-freak.gif">
+<img align="right" alt"coding" width="400" src="https://github.com/SritamSarangi/SritamSarangi/blob/FIRST/README.md">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sritamsarangi&label=Profile%20views&color=0e75b6&style=flat" alt="sritamsarangi" /> </p>
 
